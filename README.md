@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in Canada — 2026
 
-<sub><small>Last updated: Jun 08, 2026 at 06:00 UTC</small></sub>
+<sub><small>Last updated: Jun 08, 2026 at 12:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in Canada** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Kaseya Careers](https://kaseya.com)** | **[Principal Software Engineer](https://jobr.pro/job/41071261/principal-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Canada, Remote | Remote | Jun 08 |
+| **[Kaseya Careers](https://kaseya.com)** | **[Senior Manager, Software Engineering](https://jobr.pro/job/41071263/senior-manager-software-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Canada, Remote | Remote | Jun 08 |
+| **[Kaseya Careers](https://kaseya.com)** | **[Senior Director, Software Engineering](https://jobr.pro/job/41071262/senior-director-software-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Canada, Remote | Remote | Jun 08 |
 | **[Relay Financial](https://relayfi.com)** | **[Senior Software Engineer](https://jobr.pro/job/41068992/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Kitchener-Waterloo, ON | Remote | Jun 07 |
 | **[ZoomInfo Technologies LLC](https://www.zoominfo.com)** | **[Senior Software Engineer - CICD](https://jobr.pro/job/41060041/senior-software-engineer-cicd?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, Ontario, Canada | On Site | Jun 05 |
 | **[Harvey](https://www.harvey.ai/)** | **[Software Engineer, Full Stack](https://jobr.pro/job/41059265/software-engineer-full-stack?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto | Remote | Jun 05 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Tubi - Canada]()** | **[Senior Software Engineer - Content Platforms Engineering](https://jobr.pro/job/41006248/senior-software-engineer-content-platforms-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, Canada (Hybrid) | On Site | Jun 01 |
 | **[Kong Inc.](http://www.kong.nl)** | **[Senior Software Engineer](https://jobr.pro/job/41010556/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto | Remote | Jun 01 |
 | **[Optro](https://optro.ai)** | **[Staff Software Engineer (Remote Canada)](https://jobr.pro/job/41004346/staff-software-engineer-remote-canada?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Canada | Remote | Jun 01 |
-| **[Instacart](https://www.instacart.com/)** | **[Senior Software Engineer, Developer Experience](https://jobr.pro/job/41006283/senior-software-engineer-developer-experience?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Canada - Remote (ON, AB, BC, or NS Only) | Remote | Jun 01 |
-| **[Instacart](https://www.instacart.com/)** | **[Senior Software Engineer, AI Productivity](https://jobr.pro/job/41006281/senior-software-engineer-ai-productivity?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Canada - Remote (ON, AB, BC, or NS Only) | Remote | Jun 01 |
-| **[Instacart](https://www.instacart.com/)** | **[Senior Software Engineer, Backend Platform](https://jobr.pro/job/41006282/senior-software-engineer-backend-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Canada - Remote (ON, AB, BC, or NS Only) | Remote | Jun 01 |
 
 ---
 
-**Current Stats:** 50 jobs | 46% remote | 37 companies | Avg salary: 5.333340667886412e+190k  
+**Current Stats:** 50 jobs | 46% remote | 38 companies | Avg salary: 5.8666747346750535e+172k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, aws, kubernetes, ai  
