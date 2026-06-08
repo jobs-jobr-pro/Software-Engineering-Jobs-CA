@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in Canada — 2026
 
-<sub><small>Last updated: Jun 07, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 08, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in Canada** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Relay Financial](https://relayfi.com)** | **[Senior Software Engineer](https://jobr.pro/job/41068992/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Kitchener-Waterloo, ON | Remote | Jun 07 |
 | **[ZoomInfo Technologies LLC](https://www.zoominfo.com)** | **[Senior Software Engineer - CICD](https://jobr.pro/job/41060041/senior-software-engineer-cicd?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, Ontario, Canada | On Site | Jun 05 |
 | **[Harvey](https://www.harvey.ai/)** | **[Software Engineer, Full Stack](https://jobr.pro/job/41059265/software-engineer-full-stack?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto | Remote | Jun 05 |
 | **[PlayStation Global]()** | **[Sr Software Development Engineer in Test (Sr SDET)](https://jobr.pro/job/41057638/sr-software-development-engineer-in-test-sr-sdet?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | United States, Aliso Viejo, CA | On Site | Jun 05 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Instacart](https://www.instacart.com/)** | **[Senior Software Engineer, Developer Experience](https://jobr.pro/job/41006283/senior-software-engineer-developer-experience?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Canada - Remote (ON, AB, BC, or NS Only) | Remote | Jun 01 |
 | **[Instacart](https://www.instacart.com/)** | **[Senior Software Engineer, AI Productivity](https://jobr.pro/job/41006281/senior-software-engineer-ai-productivity?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Canada - Remote (ON, AB, BC, or NS Only) | Remote | Jun 01 |
 | **[Instacart](https://www.instacart.com/)** | **[Senior Software Engineer, Backend Platform](https://jobr.pro/job/41006282/senior-software-engineer-backend-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Canada - Remote (ON, AB, BC, or NS Only) | Remote | Jun 01 |
-| **[Okta](https://okta.com)** | **[Staff Software Engineer - iOS/macOS Device Authenticators](https://jobr.pro/job/41004153/staff-software-engineer-iosmacos-device-authenticators?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, Ontario, Canada | On Site | Jun 01 |
 
 ---
 
-**Current Stats:** 50 jobs | 44% remote | 37 companies | Avg salary: 7.334553078793737e+190k  
+**Current Stats:** 50 jobs | 46% remote | 37 companies | Avg salary: 5.333340667886412e+190k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, aws, kubernetes, ai  
