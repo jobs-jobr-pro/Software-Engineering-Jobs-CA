@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in Canada — 2026
 
-<sub><small>Last updated: Jun 08, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 09, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in Canada** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Okta](https://okta.com)** | **[Principal Software Engineer](https://jobr.pro/job/41074768/principal-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, Ontario, Canada | On Site | Jun 08 |
+| **[ZoomInfo Technologies LLC](https://www.zoominfo.com)** | **[Senior Software Engineer, Internal Developer Platform - PA143](https://jobr.pro/job/41073748/senior-software-engineer-internal-developer-platform-pa143?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, Ontario, Canada | On Site | Jun 08 |
 | **[Kaseya Careers](https://kaseya.com)** | **[Principal Network Software Engineer](https://jobr.pro/job/41072786/principal-network-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, Ontario | On Site | Jun 08 |
 | **[Docker](http://www.docker.com)** | **[Staff Software Engineer, Infrastructure](https://jobr.pro/job/41072290/staff-software-engineer-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Canada | Remote | Jun 08 |
 | **[Kaseya Careers](https://kaseya.com)** | **[Principal Software Engineer](https://jobr.pro/job/41071261/principal-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Canada, Remote | Remote | Jun 08 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Keyfactor, Inc.]()** | **[Principal Software Engineer](https://jobr.pro/job/41017329/principal-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | United States; Remote or Canada | Remote | Jun 02 |
 | **[NOX METALS](https://noxmetals.co)** | **[Software Engineering Intern](https://jobr.pro/job/41018546/software-engineering-intern?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | US/Canada | On Site | Jun 02 |
 | **[Achievers](https://achievers.com)** | **[Intermediate Software Engineer](https://jobr.pro/job/41015443/intermediate-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Canada | Remote | Jun 02 |
-| **[Marqeta](https://marqeta.com)** | **[Senior Staff Software Engineer - Data Platform](https://jobr.pro/job/41011557/senior-staff-software-engineer-data-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, Canada; Vancouver, Canada | On Site | Jun 02 |
-| **[Tubi - Canada]()** | **[Senior Software Engineer - Content Platforms Engineering](https://jobr.pro/job/41006248/senior-software-engineer-content-platforms-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, Canada (Hybrid) | On Site | Jun 01 |
 
 ---
 
-**Current Stats:** 50 jobs | 44% remote | 39 companies | Avg salary: 1.2741672533341402e+173k  
+**Current Stats:** 50 jobs | 44% remote | 38 companies | Avg salary: 8.068012741672534e+172k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, aws, kubernetes, ai  
