@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in Canada — 2026
 
-<sub><small>Last updated: Jun 09, 2026 at 12:00 UTC</small></sub>
+<sub><small>Last updated: Jun 09, 2026 at 18:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in Canada** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Kaseya Careers](https://kaseya.com)** | **[Senior Staff Software Engineer – Identity & Access Management Platform](https://jobr.pro/job/41094457/senior-staff-software-engineer-identity-access-management-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Canada, Remote | Remote | Jun 09 |
+| **[Kaseya Careers](https://kaseya.com)** | **[Staff Software Engineer – Identity & Access Management Platform](https://jobr.pro/job/41094460/staff-software-engineer-identity-access-management-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Canada, Remote | Remote | Jun 09 |
 | **[Getty Images](https://www.gettyimages.in)** | **[Senior Software Engineer](https://jobr.pro/job/41077959/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Calgary | Remote | Jun 08 |
 | **[Northbeam](https://northbeam.io)** | **[Senior Software Engineer, Data Systems (Python)](https://jobr.pro/job/41079910/senior-software-engineer-data-systems-python?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Remote - Canada | Remote | Jun 08 |
 | **[Life360](https://lifedaily.com)** | **[Senior Software Engineer II AI-Native, Mobile - Pet Experiences](https://jobr.pro/job/41078072/senior-software-engineer-ii-ai-native-mobile-pet-experiences?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Remote, USA; Remote, Canada | Remote | Jun 08 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Rivian and Volkswagen Group Technologies](https://rivianvw.tech/)** | **[Software Engineering Intern, Applications - Fall/Spring Co-op](https://jobr.pro/job/41027721/software-engineering-intern-applications-fallspring-co-op?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, Ontario | On Site | Jun 03 |
 | **[Lila Sciences](https://lila.ai)** | **[Senior Software Engineer, Scientific System of Record](https://jobr.pro/job/41026629/senior-software-engineer-scientific-system-of-record?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Cambridge, MA USA; San Francisco, CA USA | On Site | Jun 03 |
 | **[Varicent](https://varicent.com)** | **[Staff Software Engineer – Backend (Python / Typescript / Big Data / AWS / Kubernetes)](https://jobr.pro/job/41026563/staff-software-engineer-backend-python-typescript-big-data-aws-kubernetes?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Vancouver, British Columbia, Canada | On Site | Jun 03 |
-| **[Ideogram](https://ideogram.ai/)** | **[Software Engineer, ML Data Infrastructure](https://jobr.pro/job/41030301/software-engineer-ml-data-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto | On Site | Jun 03 |
-| **[Block](https://www.blockxblock.com)** | **[Senior Software Engineer, Product Platform](https://jobr.pro/job/41017478/senior-software-engineer-product-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, Ontario, Canada | On Site | Jun 02 |
 
 ---
 
-**Current Stats:** 50 jobs | 50% remote | 40 companies | Avg salary: 6.451619870976129e+179k  
+**Current Stats:** 50 jobs | 54% remote | 38 companies | Avg salary: 6.666673866675334e+173k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, aws, kubernetes, ai  
