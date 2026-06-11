@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in Canada — 2026
 
-<sub><small>Last updated: Jun 10, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 11, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in Canada** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca).
@@ -13,7 +13,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Samsara](https://www.samsara.com)** | **[Sr. Software Engineer II](https://jobr.pro/job/41138057/sr-software-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Remote - Canada | Remote | Jun 10 |
+| **[Roblox](https://roblox.com)** | **[Senior Software Engineer, UGC Validation – Avatar Heads and Bodies](https://jobr.pro/job/41136580/senior-software-engineer-ugc-validation-avatar-heads-and-bodies?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Vancouver, British Columbia, Canada | On Site | Jun 10 |
+| **[TMS LLC](https://workwithtms.com/)** | **[Lead Software Engineer – AI Transformation, Microservices Architecture and Saas Experience (Full-Time)](https://jobr.pro/job/41133686/lead-software-engineer-ai-transformation-microservices-architecture-and-saas-experience-full-time?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Cambridge, ON, Canada | On Site | Jun 10 |
+| **[Cision](https://cision.com)** | **[Cision, Senior Software Developer, Software Engineer, AMER, Canada](https://jobr.pro/job/41135638/cision-senior-software-developer-software-engineer-amer-canada?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Remote - Canada | Remote | Jun 10 |
 | **[Pinterest](https://www.pinterest.com/)** | **[Software Engineer II, Android](https://jobr.pro/job/41133018/software-engineer-ii-android?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, ON, CA | On Site | Jun 10 |
+| **[Instacart](https://www.instacart.com/)** | **[Senior Software Engineer, Marketing Enablement & Technology](https://jobr.pro/job/41138742/senior-software-engineer-marketing-enablement-technology?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Canada - Remote (ON, AB, BC, or NS Only) | Remote | Jun 10 |
 | **[Lyft](https://www.lyftlearning.com)** | **[Software Engineer, Fulfillment](https://jobr.pro/job/41129560/software-engineer-fulfillment?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, Canada | On Site | Jun 10 |
 | **[TribalScale](https://tribalscale.com)** | **[Agile Software Engineer - Co-op](https://jobr.pro/job/41119282/agile-software-engineer-co-op?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, Ontario, Canada | On Site | Jun 09 |
 | **[Asana](https://asana.com)** | **[Senior Software Engineer, Logging & Experiments](https://jobr.pro/job/41109379/senior-software-engineer-logging-experiments?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Vancouver, BC | On Site | Jun 09 |
@@ -57,16 +62,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Fincentify](https://fincentify.com)** | **[Senior Software Engineer](https://jobr.pro/job/41047049/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Downtown Montreal, QC, Canada | Remote | Jun 04 |
 | **[Blackpoint%20cyber]()** | **[Senior Software Engineer](https://jobr.pro/job/41047901/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Remote - Canada | Remote | Jun 04 |
 | **[TMS LLC](https://tmsllc.com/)** | **[Lead Software Engineer – .NET & Angular (Full Time Role)](https://jobr.pro/job/41107879/lead-software-engineer-net-angular-full-time-role?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, ON, Canada | On Site | Jun 04 |
-| **[Parallelz](https://parallelz.com)** | **[Software Engineer](https://jobr.pro/job/41051132/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, Ontario, Canada | On Site | Jun 04 |
-| **[Asana](https://asana.com)** | **[Software Engineer, Product (Early Career)](https://jobr.pro/job/41031502/software-engineer-product-early-career?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Vancouver, BC | On Site | Jun 03 |
-| **[Lumos](https://www.lumos.com/)** | **[Software Engineer, Data Platform](https://jobr.pro/job/41041782/software-engineer-data-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Remote - US/Canada | Remote | Jun 03 |
-| **[Trulioo](https://www.trulioo.com/)** | **[Junior Software Engineer](https://jobr.pro/job/41034137/junior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Vancouver | Remote | Jun 03 |
-| **[Mediafly](https://mediafly.com)** | **[Senior Software Engineer (Fullstack)](https://jobr.pro/job/41034233/senior-software-engineer-fullstack?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Remote - Canada | Remote | Jun 03 |
-| **[Clutch Technologies Inc.](https://clutch.io)** | **[Staff Software Engineer](https://jobr.pro/job/41036817/staff-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, Ontario | On Site | Jun 03 |
 
 ---
 
-**Current Stats:** 50 jobs | 50% remote | 38 companies | Avg salary: 6.763507142862978e+161k  
+**Current Stats:** 49 jobs | 51% remote | 37 companies | Avg salary: 6.8444495185255325e+156k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, ai  
