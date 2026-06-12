@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in Canada — 2026
 
-<sub><small>Last updated: Jun 12, 2026 at 12:00 UTC</small></sub>
+<sub><small>Last updated: Jun 12, 2026 at 18:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in Canada** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Samsara](https://www.samsara.com)** | **[Staff Software Engineer, Routing](https://jobr.pro/job/41172415/staff-software-engineer-routing?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Remote - CA | Remote | Jun 12 |
 | **[Flagship Pioneering, Inc.]()** | **[Principal Software Engineer - Agentic Platform](https://jobr.pro/job/41162176/principal-software-engineer-agentic-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Cambridge, MA USA | On Site | Jun 11 |
 | **[Trulioo](https://trulioo.com)** | **[Intermediate Software Engineer (KYB)](https://jobr.pro/job/41166977/intermediate-software-engineer-kyb?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Vancouver | Remote | Jun 11 |
 | **[Harvey](https://www.harvey.ai/)** | **[Senior Software Engineer, Frontend](https://jobr.pro/job/41161626/senior-software-engineer-frontend?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto | Remote | Jun 11 |
@@ -57,12 +58,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[PlayStation Global]()** | **[Sr Software Development Engineer in Test (Sr SDET)](https://jobr.pro/job/41057638/sr-software-development-engineer-in-test-sr-sdet?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | United States, Aliso Viejo, CA | On Site | Jun 05 |
 | **[PlayStation Global]()** | **[Software Development Engineer in Test II](https://jobr.pro/job/41057635/software-development-engineer-in-test-ii?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | United States, Aliso Viejo, CA | On Site | Jun 05 |
 | **[Telnyx](https://telnyx.com)** | **[Software Engineer, GTM AI - Python](https://jobr.pro/job/41057672/software-engineer-gtm-ai-python?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | United States; Brazil; Canada | On Site | Jun 05 |
-| **[PlayStation Global]()** | **[Staff Software Development Engineer in Test - Subscription Platform](https://jobr.pro/job/41055018/staff-software-development-engineer-in-test-subscription-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | United States, Aliso Viejo, CA | On Site | Jun 05 |
-| **[Marble Technology Inc.](https://marble.ai/)** | **[Software Engineer, Lead](https://jobr.pro/job/41064042/software-engineer-lead?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto | Remote | Jun 05 |
 
 ---
 
-**Current Stats:** 46 jobs | 52% remote | 33 companies | Avg salary: 1.1195656739137458e+133k  
+**Current Stats:** 45 jobs | 53% remote | 32 companies | Avg salary: 1.5818193522732046e+127k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, ai  
