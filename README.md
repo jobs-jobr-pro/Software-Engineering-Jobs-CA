@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in Canada — 2026
 
-<sub><small>Last updated: Jun 12, 2026 at 06:00 UTC</small></sub>
+<sub><small>Last updated: Jun 12, 2026 at 12:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in Canada** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca).
@@ -14,7 +14,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[Flagship Pioneering, Inc.]()** | **[Principal Software Engineer - Agentic Platform](https://jobr.pro/job/41162176/principal-software-engineer-agentic-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Cambridge, MA USA | On Site | Jun 11 |
-| **[Trulioo](https://www.trulioo.com/)** | **[Intermediate Software Engineer (KYB)](https://jobr.pro/job/41160697/intermediate-software-engineer-kyb?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Vancouver | Remote | Jun 11 |
+| **[Trulioo](https://trulioo.com)** | **[Intermediate Software Engineer (KYB)](https://jobr.pro/job/41166977/intermediate-software-engineer-kyb?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Vancouver | Remote | Jun 11 |
 | **[Harvey](https://www.harvey.ai/)** | **[Senior Software Engineer, Frontend](https://jobr.pro/job/41161626/senior-software-engineer-frontend?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto | Remote | Jun 11 |
 | **[Life360](https://lifedaily.com)** | **[Software Engineer II AI-Native, Backend Devices Cloud](https://jobr.pro/job/41160594/software-engineer-ii-ai-native-backend-devices-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Remote, USA; Remote, Canada | Remote | Jun 11 |
 | **[Legend](https://legendsofamerica.com)** | **[Backend Software Engineer](https://jobr.pro/job/41157323/backend-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Halifax, Canada | On Site | Jun 11 |
