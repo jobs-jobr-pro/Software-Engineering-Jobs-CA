@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in Canada — 2026
 
-<sub><small>Last updated: Jun 13, 2026 at 06:00 UTC</small></sub>
+<sub><small>Last updated: Jun 13, 2026 at 12:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in Canada** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca).
@@ -16,6 +16,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Roblox](https://roblox.com)** | **[Senior Software Engineer, Geometry](https://jobr.pro/job/41179414/senior-software-engineer-geometry?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Vancouver, British Columbia, Canada | On Site | Jun 12 |
 | **[ZoomInfo Technologies LLC](https://www.zoominfo.com)** | **[Principal Software Engineer](https://jobr.pro/job/41177432/principal-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, Ontario, Canada | On Site | Jun 12 |
 | **[Warner Music Group](https://wmg.com)** | **[Senior Software Engineer](https://jobr.pro/job/41182481/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, Ontario | Remote | Jun 12 |
+| **[Sentry](https://link.sentry.com)** | **[Senior Software Engineer, Control Plane](https://jobr.pro/job/41184471/senior-software-engineer-control-plane?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, Ontario, Canada | Remote | Jun 12 |
 | **[Samsara](https://www.samsara.com)** | **[Staff Software Engineer, Routing](https://jobr.pro/job/41172415/staff-software-engineer-routing?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Remote - CA | Remote | Jun 12 |
 | **[AutoTrader.ca](https://autotrader.ca)** | **[Software Engineer](https://jobr.pro/job/41177864/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, ON (Canada) | On Site | Jun 12 |
 | **[Flagship Pioneering, Inc.]()** | **[Principal Software Engineer - Agentic Platform](https://jobr.pro/job/41162176/principal-software-engineer-agentic-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Cambridge, MA USA | On Site | Jun 11 |
@@ -60,7 +61,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 44 jobs | 55% remote | 32 companies | Avg salary: 1.2135663478267478e+133k  
+**Current Stats:** 45 jobs | 56% remote | 33 companies | Avg salary: 1.1630010833339667e+139k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, ai  
