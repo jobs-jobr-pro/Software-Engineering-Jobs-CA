@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in Canada — 2026
 
-<sub><small>Last updated: Jun 13, 2026 at 12:00 UTC</small></sub>
+<sub><small>Last updated: Jun 13, 2026 at 18:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in Canada** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Chainguard](https://chainguard.dev)** | **[Senior Software Engineer (Sustaining Automation)](https://jobr.pro/job/41186927/senior-software-engineer-sustaining-automation?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Canada - Remote; Europe - Remote; United States - Remote | Remote | Jun 13 |
 | **[Roblox](https://roblox.com)** | **[Senior Software Engineer, Geometry](https://jobr.pro/job/41179414/senior-software-engineer-geometry?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Vancouver, British Columbia, Canada | On Site | Jun 12 |
 | **[ZoomInfo Technologies LLC](https://www.zoominfo.com)** | **[Principal Software Engineer](https://jobr.pro/job/41177432/principal-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, Ontario, Canada | On Site | Jun 12 |
 | **[Warner Music Group](https://wmg.com)** | **[Senior Software Engineer](https://jobr.pro/job/41182481/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, Ontario | Remote | Jun 12 |
@@ -61,7 +62,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 45 jobs | 56% remote | 33 companies | Avg salary: 1.1630010833339667e+139k  
+**Current Stats:** 46 jobs | 57% remote | 34 companies | Avg salary: 7.3600111648104e+144k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, ai  
