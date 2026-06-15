@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in Canada — 2026
 
-<sub><small>Last updated: Jun 15, 2026 at 06:00 UTC</small></sub>
+<sub><small>Last updated: Jun 15, 2026 at 12:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in Canada** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca).
@@ -55,14 +55,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Kaseya Careers](https://kaseya.com)** | **[Principal Network Software Engineer](https://jobr.pro/job/41072786/principal-network-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, Ontario | On Site | Jun 08 |
 | **[Alan](https://venn.io)** | **[Senior Software Engineer, Backend](https://jobr.pro/job/41077797/senior-software-engineer-backend?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto | On Site | Jun 08 |
 | **[Docker](http://www.docker.com)** | **[Staff Software Engineer, Infrastructure](https://jobr.pro/job/41072290/staff-software-engineer-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Canada | Remote | Jun 08 |
-| **[NOX METALS](https://noxmetals.co)** | **[Software Engineer](https://jobr.pro/job/41079645/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Windsor, ON | On Site | Jun 08 |
-| **[Kaseya Careers](https://kaseya.com)** | **[Principal Software Engineer](https://jobr.pro/job/41071261/principal-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Canada, Remote | Remote | Jun 08 |
-| **[Kaseya Careers](https://kaseya.com)** | **[Senior Manager, Software Engineering](https://jobr.pro/job/41071263/senior-manager-software-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Canada, Remote | Remote | Jun 08 |
-| **[Kaseya Careers](https://kaseya.com)** | **[Senior Director, Software Engineering](https://jobr.pro/job/41071262/senior-director-software-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Canada, Remote | Remote | Jun 08 |
 
 ---
 
-**Current Stats:** 46 jobs | 54% remote | 34 companies | Avg salary: 5.416674333344963e+138k  
+**Current Stats:** 42 jobs | 52% remote | 33 companies | Avg salary: 5.416674333344963e+138k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, aws, ai, nodejs  
