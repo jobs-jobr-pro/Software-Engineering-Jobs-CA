@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in Canada — 2026
 
-<sub><small>Last updated: Jun 18, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: Jun 18, 2026 at 06:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in Canada** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca).
@@ -15,6 +15,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | ------- | -------- | -------- | ---- | ------ |
 | **[Vivid Seats](https://www.vividseats.com)** | **[Software Engineer](https://jobr.pro/job/41244847/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Chicago, IL or Toronto, CAN | On Site | Jun 17 |
 | **[PlayStation Global](https://careers.playstation.com)** | **[Senior Full Stack Software Engineer (Contract Role)](https://jobr.pro/job/41244652/senior-full-stack-software-engineer-contract-role?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | United States, San Diego, CA | On Site | Jun 17 |
+| **[Cority](https://cority.com)** | **[Senior Software Engineer](https://jobr.pro/job/41249490/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Canada | Remote | Jun 17 |
 | **[PlayStation Global](https://careers.playstation.com)** | **[Manager, Software Engineering](https://jobr.pro/job/41244651/manager-software-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | United States, San Mateo, CA | On Site | Jun 17 |
 | **[Okta](https://www.okta.com)** | **[Staff Software Engineer in Test, Linux](https://jobr.pro/job/41240675/staff-software-engineer-in-test-linux?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, Ontario, Canada | On Site | Jun 17 |
 | **[Okta](https://www.okta.com)** | **[Staff Software Engineer in Test, iOS](https://jobr.pro/job/41240674/staff-software-engineer-in-test-ios?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, Ontario, Canada | On Site | Jun 17 |
@@ -63,7 +64,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 47 jobs | 38% remote | 33 companies | Avg salary: 4.3103552413859483e+167k  
+**Current Stats:** 48 jobs | 40% remote | 34 companies | Avg salary: 4.3103552413859483e+167k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, ai, nodejs  
