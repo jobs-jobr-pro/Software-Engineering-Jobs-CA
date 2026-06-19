@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in Canada — 2026
 
-<sub><small>Last updated: Jun 19, 2026 at 12:00 UTC</small></sub>
+<sub><small>Last updated: Jun 19, 2026 at 18:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in Canada** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca).
@@ -13,7 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Perch](https://myperch.io)** | **[Intermediate Full Stack Software Engineer](https://jobr.pro/job/41288769/intermediate-full-stack-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Canada | Remote | Jun 19 |
 | **[Ping Identity](https://www.pingidentity.com)** | **[Software Engineer I](https://jobr.pro/job/41276157/software-engineer-i?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Canada - Vancouver, BC | On Site | Jun 18 |
+| **[Cognitiv](https://www.cognitiv.ai)** | **[Senior Software Engineer, Big Data](https://jobr.pro/job/41288235/senior-software-engineer-big-data?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Vancouver, BC | On Site | Jun 18 |
 | **[Chainguard](https://chainguard.dev)** | **[Principal Software Engineer (Athena)](https://jobr.pro/job/41281627/principal-software-engineer-athena?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Canada - Remote | Remote | Jun 18 |
 | **[Life360](https://lifedaily.com)** | **[Senior Software Engineer II, AI Native, Experimentation & ML](https://jobr.pro/job/41276089/senior-software-engineer-ii-ai-native-experimentation-ml?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Remote, USA; Remote, Canada | Remote | Jun 18 |
 | **[Instacart](https://instacart.careers)** | **[Senior Software Engineer, Instacart Business](https://jobr.pro/job/41263904/senior-software-engineer-instacart-business?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Canada - Remote (ON, AB, BC, or NS Only) | Remote | Jun 18 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Okta](https://www.okta.com)** | **[Software Engineer II, Security Engineering (Auth0)](https://jobr.pro/job/41206639/software-engineer-ii-security-engineering-auth0?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, Ontario, Canada | On Site | Jun 15 |
 | **[Basetwo](https://www.basetwo.ai)** | **[Software Engineer, Full Stack](https://jobr.pro/job/41203878/software-engineer-full-stack?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Calgary, Alberta, Canada | Remote | Jun 15 |
 | **[Varicent](https://varicent.com)** | **[Staff Software Engineer – Backend (Typescript / .Nodejs / AWS )](https://jobr.pro/job/41191693/staff-software-engineer-backend-typescript-nodejs-aws-?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, Canada | On Site | Jun 14 |
-| **[Partyhat](https://partyhat.ai)** | **[Senior Software Engineer](https://jobr.pro/job/41191675/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Canada | Remote | Jun 14 |
-| **[Chainguard](https://chainguard.dev)** | **[Senior Software Engineer (Sustaining Automation)](https://jobr.pro/job/41186927/senior-software-engineer-sustaining-automation?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Canada - Remote; Europe - Remote; United States - Remote | Remote | Jun 13 |
 
 ---
 
-**Current Stats:** 50 jobs | 38% remote | 36 companies | Avg salary: 3.039007465523362e+166k  
+**Current Stats:** 50 jobs | 36% remote | 37 companies | Avg salary: 3.147543446434911e+160k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, ai, nodejs  
