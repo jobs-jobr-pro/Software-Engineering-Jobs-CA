@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in Canada — 2026
 
-<sub><small>Last updated: Jun 18, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 19, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in Canada** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca).
@@ -14,6 +14,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[Instacart](https://instacart.careers)** | **[Senior Software Engineer, Instacart Business](https://jobr.pro/job/41263904/senior-software-engineer-instacart-business?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Canada - Remote (ON, AB, BC, or NS Only) | Remote | Jun 18 |
+| **[Gen](http://gendigital.me)** | **[Software Engineer - Intern - Payments & Wallets](https://jobr.pro/job/41267486/software-engineer-intern-payments-wallets?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | USA - Mountain View, CA | On Site | Jun 18 |
+| **[3Pillar](https://www.3pillar.ai)** | **[Senior C# .Net Senior Software Engineer](https://jobr.pro/job/41269913/senior-c-net-senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Canada | Remote | Jun 18 |
 | **[Tubi - Canada]()** | **[Staff Software Engineer, Internal Tools](https://jobr.pro/job/41261641/staff-software-engineer-internal-tools?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, Canada (Hybrid) | On Site | Jun 18 |
 | **[Doppel](https://www.doppel.com)** | **[Software Engineer, Simulation](https://jobr.pro/job/41256263/software-engineer-simulation?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, ON | Remote | Jun 17 |
 | **[Tubi - Canada]()** | **[Senior Software Engineer, Growth](https://jobr.pro/job/41261640/senior-software-engineer-growth?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, Canada (Hybrid) | On Site | Jun 17 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Warner Music Group](https://wmg.com)** | **[Senior Software Engineer](https://jobr.pro/job/41182481/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, Ontario | Remote | Jun 12 |
 | **[Sentry](https://link.sentry.com)** | **[Senior Software Engineer, Control Plane](https://jobr.pro/job/41184471/senior-software-engineer-control-plane?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, Ontario, Canada | Remote | Jun 12 |
 | **[Samsara](https://www.samsara.com)** | **[Staff Software Engineer, Routing](https://jobr.pro/job/41172415/staff-software-engineer-routing?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Remote - CA | Remote | Jun 12 |
-| **[AutoTrader.ca](https://autotrader.ca)** | **[Software Engineer](https://jobr.pro/job/41177864/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, ON (Canada) | On Site | Jun 12 |
-| **[Flagship Pioneering, Inc.]()** | **[Principal Software Engineer - Agentic Platform](https://jobr.pro/job/41162176/principal-software-engineer-agentic-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Cambridge, MA USA | On Site | Jun 11 |
 
 ---
 
-**Current Stats:** 50 jobs | 36% remote | 36 companies | Avg salary: 5.546882346886406e+185k  
+**Current Stats:** 50 jobs | 38% remote | 36 companies | Avg salary: 5.7258299355597095e+178k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, ai, nodejs  
