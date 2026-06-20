@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in Canada — 2026
 
-<sub><small>Last updated: Jun 20, 2026 at 06:00 UTC</small></sub>
+<sub><small>Last updated: Jun 20, 2026 at 12:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in Canada** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca).
@@ -14,6 +14,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[Klue](https://klue.com)** | **[Senior Software Engineer, Agents](https://jobr.pro/job/41298082/senior-software-engineer-agents?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Vancouver, British Columbia | Remote | Jun 19 |
+| **[Digital Extremes](https://digitalextremes.com)** | **[Software Engineer II, Web](https://jobr.pro/job/41300458/software-engineer-ii-web?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | London, Ontario | On Site | Jun 19 |
 | **[Perch](https://myperch.io)** | **[Intermediate Full Stack Software Engineer](https://jobr.pro/job/41288769/intermediate-full-stack-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Canada | Remote | Jun 19 |
 | **[Ping Identity](https://www.pingidentity.com)** | **[Software Engineer I](https://jobr.pro/job/41276157/software-engineer-i?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Canada - Vancouver, BC | On Site | Jun 18 |
 | **[Cognitiv](https://www.cognitiv.ai)** | **[Senior Software Engineer, Big Data](https://jobr.pro/job/41288235/senior-software-engineer-big-data?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Vancouver, BC | On Site | Jun 18 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[PagerDuty](https://pagerduty.com)** | **[Software Engineer - Core Product](https://jobr.pro/job/41203808/software-engineer-core-product?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto | On Site | Jun 15 |
 | **[SS8](https://ss8.com)** | **[Software Engineer](https://jobr.pro/job/41202641/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Canada - Markham, Ontario | On Site | Jun 15 |
 | **[Roblox](https://careers.roblox.com)** | **[Principal Software Engineer, Physics](https://jobr.pro/job/41202707/principal-software-engineer-physics?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Vancouver, British Columbia, Canada | On Site | Jun 15 |
-| **[Okta](https://www.okta.com)** | **[Software Engineer II, Security Engineering (Auth0)](https://jobr.pro/job/41206639/software-engineer-ii-security-engineering-auth0?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, Ontario, Canada | On Site | Jun 15 |
 
 ---
 
-**Current Stats:** 50 jobs | 36% remote | 37 companies | Avg salary: 6.758651079706896e+165k  
+**Current Stats:** 50 jobs | 36% remote | 38 companies | Avg salary: 6.758653448579762e+164k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** ai  
