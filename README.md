@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in Canada — 2026
 
-<sub><small>Last updated: Jun 22, 2026 at 12:00 UTC</small></sub>
+<sub><small>Last updated: Jun 22, 2026 at 18:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in Canada** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca).
@@ -61,12 +61,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Sardine](https://www.sardine.ai)** | **[Senior Software Engineer - AI Experiences](https://jobr.pro/job/41218872/senior-software-engineer-ai-experiences?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Canada | Remote | Jun 15 |
 | **[Fast Company](http://www.sardinebali.com)** | **[Senior Software Engineer - AI Experiences](https://jobr.pro/job/41204580/senior-software-engineer-ai-experiences?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Canada | Remote | Jun 15 |
 | **[PagerDuty](https://pagerduty.com)** | **[Software Engineer - Core Product](https://jobr.pro/job/41203808/software-engineer-core-product?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto | On Site | Jun 15 |
-| **[SS8](https://ss8.com)** | **[Software Engineer](https://jobr.pro/job/41202641/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Canada - Markham, Ontario | On Site | Jun 15 |
-| **[Roblox](https://careers.roblox.com)** | **[Principal Software Engineer, Physics](https://jobr.pro/job/41202707/principal-software-engineer-physics?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Vancouver, British Columbia, Canada | On Site | Jun 15 |
 
 ---
 
-**Current Stats:** 50 jobs | 36% remote | 38 companies | Avg salary: 6.758653448579762e+164k  
+**Current Stats:** 48 jobs | 38% remote | 36 companies | Avg salary: 7.000033928886182e+158k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** ai  
