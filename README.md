@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in Canada — 2026
 
-<sub><small>Last updated: Jun 23, 2026 at 06:00 UTC</small></sub>
+<sub><small>Last updated: Jun 23, 2026 at 12:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in Canada** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca).
@@ -18,10 +18,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[PlayStation Global](https://careers.playstation.com)** | **[Senior Software Engineer (Platform Data Reliability & Automation)](https://jobr.pro/job/41327396/senior-software-engineer-platform-data-reliability-automation?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | United States, San Diego, CA | On Site | Jun 22 |
 | **[PlayStation Global](https://careers.playstation.com)** | **[Software Engineer I](https://jobr.pro/job/41322972/software-engineer-i?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | United States, San Diego, CA | On Site | Jun 22 |
 | **[Faire](https://www.faire.com)** | **[Software Engineer - Retailer Growth](https://jobr.pro/job/41324600/software-engineer-retailer-growth?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Kitchener-Waterloo, ON; Toronto, ON | On Site | Jun 22 |
+| **[Life360](https://lifedaily.com)** | **[Senior Software Engineer II, AI Native, Mobile](https://jobr.pro/job/41333552/senior-software-engineer-ii-ai-native-mobile?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Remote, USA; Remote, Canada | Remote | Jun 22 |
 | **[Exadel Inc (Website)](https://exadel.com)** | **[Software Engineer (React)](https://jobr.pro/job/41330010/software-engineer-react?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Canada | On Site | Jun 22 |
 | **[Okta](https://www.okta.com)** | **[Staff Software Engineer - UI Platform](https://jobr.pro/job/41323755/staff-software-engineer-ui-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, Ontario, Canada | On Site | Jun 22 |
 | **[Pinterest](https://www.pinterestcareers.com)** | **[Sr. Software Engineer, iOS](https://jobr.pro/job/41326397/sr-software-engineer-ios?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, ON, CA | On Site | Jun 22 |
 | **[Dominion%20dynamics]()** | **[Software Engineer – Frontend](https://jobr.pro/job/41331055/software-engineer-frontend?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Ottawa Office | On Site | Jun 22 |
+| **[Univeris](https://www.univeris.com)** | **[Engineering Manager, Software Development](https://jobr.pro/job/41335302/engineering-manager-software-development?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, Ontario | On Site | Jun 22 |
 | **[ClickHouse](https://clickhouse.com)** | **[Senior Software Engineer - Identity & Authorization Platform](https://jobr.pro/job/41331329/senior-software-engineer-identity-authorization-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Canada (remote) | Remote | Jun 22 |
 | **[Big Viking Games](https://www.bigvikinggames.com)** | **[Sr Software Engineer, Games](https://jobr.pro/job/41324727/sr-software-engineer-games?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, Ontario, Canada | On Site | Jun 22 |
 | **[Big Viking Games](https://www.bigvikinggames.com)** | **[Intermediate Software Engineer](https://jobr.pro/job/41324725/intermediate-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, Ontario, Canada | On Site | Jun 22 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Okta](https://www.okta.com)** | **[Principal Software Engineer](https://jobr.pro/job/41222336/principal-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, Ontario, Canada | On Site | Jun 16 |
 | **[Fivetran](https://www.fivetran.com)** | **[Staff Software Engineer](https://jobr.pro/job/41223739/staff-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, Ontario, Canada | On Site | Jun 16 |
 | **[Redpanda Data](https://redpanda.com)** | **[Senior Software Engineer, Connectors](https://jobr.pro/job/41236630/senior-software-engineer-connectors?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | United States, Canada | On Site | Jun 16 |
-| **[Chainguard](https://chainguard.dev)** | **[Software Engineer](https://jobr.pro/job/41237934/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Canada - Remote | Remote | Jun 16 |
-| **[Chainguard](https://chainguard.dev)** | **[Senior Software Engineer](https://jobr.pro/job/41237931/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Canada - Remote | Remote | Jun 16 |
 
 ---
 
-**Current Stats:** 50 jobs | 28% remote | 35 companies | Avg salary: 8.863340196672599e+171k  
+**Current Stats:** 50 jobs | 26% remote | 36 companies | Avg salary: 8.309381434380562e+183k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, ai  
