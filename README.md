@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in Canada — 2026
 
-<sub><small>Last updated: Jun 24, 2026 at 12:00 UTC</small></sub>
+<sub><small>Last updated: Jun 24, 2026 at 18:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in Canada** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Okta](https://www.okta.com)** | **[Staff Software Engineer](https://jobr.pro/job/41366635/staff-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, Ontario, Canada | On Site | Jun 24 |
 | **[Okta](https://www.okta.com)** | **[Senior Software Engineer- Okta Identity Governance](https://jobr.pro/job/41352766/senior-software-engineer-okta-identity-governance?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, Ontario, Canada | On Site | Jun 23 |
 | **[Okta](https://www.okta.com)** | **[Staff Software Engineer - UI Platform (Toronto)](https://jobr.pro/job/41352770/staff-software-engineer-ui-platform-toronto?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, Ontario, Canada | On Site | Jun 23 |
 | **[Monks](https://www.monks.com)** | **[Software Engineering Team Lead](https://jobr.pro/job/41352783/software-engineering-team-lead?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, Ontario, Canada | On Site | Jun 23 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Magical](https://magicalquote.com)** | **[Software Engineer](https://jobr.pro/job/41263536/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto | Remote | Jun 17 |
 | **[PlayStation Global](https://careers.playstation.com)** | **[Senior Full Stack Software Engineer (Contract Role)](https://jobr.pro/job/41244652/senior-full-stack-software-engineer-contract-role?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | United States, San Diego, CA | On Site | Jun 17 |
 | **[Decoda Health](https://decodahealth.com)** | **[Software Engineer](https://jobr.pro/job/41261107/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto Office | On Site | Jun 17 |
-| **[Ripple](https://ripple.com)** | **[Staff Software Engineer](https://jobr.pro/job/41353059/staff-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, Canada | On Site | Jun 17 |
 
 ---
 
-**Current Stats:** 50 jobs | 26% remote | 40 companies | Avg salary: 5.342862857147428e+201k  
+**Current Stats:** 50 jobs | 26% remote | 39 companies | Avg salary: 6.285719628577143e+201k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, ai  
