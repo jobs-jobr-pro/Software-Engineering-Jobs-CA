@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in Canada — 2026
 
-<sub><small>Last updated: Jun 23, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 24, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in Canada** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca).
@@ -13,6 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Lyft](https://www.lyft.com)** | **[Senior Software Engineer - Ad Infra, Lyft Ads](https://jobr.pro/job/41351228/senior-software-engineer-ad-infra-lyft-ads?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, Canada | On Site | Jun 23 |
+| **[Arc'teryx Equipment](https://arcteryx.com)** | **[Manager, Software Engineering (Service Cloud)](https://jobr.pro/job/41349937/manager-software-engineering-service-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | North Vancouver, BC (Corporate) | On Site | Jun 23 |
+| **[Vanta](https://www.vantaexec.co.uk)** | **[Principal Software Engineer, Platform](https://jobr.pro/job/41347015/principal-software-engineer-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Remote - Canada | Remote | Jun 23 |
+| **[Ground News](http://ground.news)** | **[Staff Software Engineer](https://jobr.pro/job/41347187/staff-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Remote - Canada | Remote | Jun 23 |
 | **[Dialpad](https://dialpad.com)** | **[Software Engineer (Growth)](https://jobr.pro/job/41344564/software-engineer-growth?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Vancouver, Canada | On Site | Jun 23 |
 | **[AutoTrader.ca](https://autotrader.ca)** | **[Senior Software Engineer](https://jobr.pro/job/41340378/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, ON (Canada) | On Site | Jun 23 |
 | **[PlayStation Global](https://careers.playstation.com)** | **[Software Development Engineer in Test II (SDET Contractor)](https://jobr.pro/job/41327398/software-development-engineer-in-test-ii-sdet-contractor?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | United States, San Mateo, CA | On Site | Jun 22 |
@@ -59,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Okta](https://www.okta.com)** | **[Staff Software Engineer in Test, iOS](https://jobr.pro/job/41240674/staff-software-engineer-in-test-ios?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, Ontario, Canada | On Site | Jun 17 |
 | **[Cohere](https://cohere.io)** | **[Data Annotation Specialist, Software Engineering](https://jobr.pro/job/41242425/data-annotation-specialist-software-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Canada | Remote | Jun 17 |
 | **[Trulioo Co-op & Internship](https://www.trulioo.com)** | **[Junior Software Engineer Co-op (Collider)](https://jobr.pro/job/41279321/junior-software-engineer-co-op-collider?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Vancouver | Remote | Jun 17 |
-| **[Providius](https://providius.com)** | **[Software Engineer](https://jobr.pro/job/41242480/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Hamilton, Ontario, Canada | On Site | Jun 17 |
-| **[PlayStation Global](https://careers.playstation.com)** | **[Software Development Engineer in Test, ML/AI](https://jobr.pro/job/41227849/software-development-engineer-in-test-mlai?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | United States, San Mateo, CA | On Site | Jun 16 |
-| **[PlayStation Global](https://careers.playstation.com)** | **[Software Engineer II](https://jobr.pro/job/41225275/software-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | United States, San Mateo, CA | On Site | Jun 16 |
-| **[Lyft](https://www.lyft.com)** | **[Software Engineer, Frontend - Lyft Urban Solutions](https://jobr.pro/job/41225408/software-engineer-frontend-lyft-urban-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, Canada | On Site | Jun 16 |
 
 ---
 
-**Current Stats:** 50 jobs | 26% remote | 38 companies | Avg salary: 5.612907096780323e+177k  
+**Current Stats:** 50 jobs | 30% remote | 40 companies | Avg salary: 5.666672466670666e+171k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, ai  
