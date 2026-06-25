@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in Canada — 2026
 
-<sub><small>Last updated: Jun 25, 2026 at 12:00 UTC</small></sub>
+<sub><small>Last updated: Jun 25, 2026 at 18:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in Canada** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Monster Energy](https://www.monsterenergy.com)** | **[Senior Software Engineer](https://jobr.pro/job/41397036/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | USA - Corona, CA | On Site | Jun 25 |
+| **[Afresh](https://afresh.com)** | **[Staff Software Engineer Data - DC Tech Lead](https://jobr.pro/job/41396321/staff-software-engineer-data-dc-tech-lead?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Remote - Toronto, Ontario, Canada | Remote | Jun 25 |
 | **[Save, Earn, Travel](https://www.super.com)** | **[Senior Software Engineer, Platform](https://jobr.pro/job/41388929/senior-software-engineer-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Canada/United States | Remote | Jun 24 |
 | **[PlayStation Global](https://careers.playstation.com)** | **[Sr. Software Engineer in Test](https://jobr.pro/job/41377075/sr-software-engineer-in-test?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | United States, San Diego, CA | On Site | Jun 24 |
 | **[PlayStation Global](https://careers.playstation.com)** | **[Software Engineer II](https://jobr.pro/job/41377073/software-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | United States, San Mateo, CA | On Site | Jun 24 |
@@ -59,14 +61,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[AltaML](https://altaml.com)** | **[Manager, Software Engineering](https://jobr.pro/job/41292163/manager-software-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Calgary | On Site | Jun 18 |
 | **[Chainguard](https://chainguard.dev)** | **[Principal Software Engineer (Athena)](https://jobr.pro/job/41281627/principal-software-engineer-athena?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Canada - Remote | Remote | Jun 18 |
 | **[Life360](https://lifedaily.com)** | **[Senior Software Engineer II, AI Native, Experimentation & ML](https://jobr.pro/job/41276089/senior-software-engineer-ii-ai-native-experimentation-ml?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Remote, USA; Remote, Canada | Remote | Jun 18 |
-| **[Instacart](https://instacart.careers)** | **[Senior Software Engineer, Instacart Business](https://jobr.pro/job/41263904/senior-software-engineer-instacart-business?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Canada - Remote (ON, AB, BC, or NS Only) | Remote | Jun 18 |
-| **[Gen](http://gendigital.me)** | **[Software Engineer - Intern - Payments & Wallets](https://jobr.pro/job/41267486/software-engineer-intern-payments-wallets?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | USA - Mountain View, CA | On Site | Jun 18 |
-| **[3Pillar](https://www.3pillar.ai)** | **[Senior C# .Net Senior Software Engineer](https://jobr.pro/job/41269913/senior-c-net-senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Canada | Remote | Jun 18 |
-| **[PointClickCare](https://pointclickcare.com)** | **[Senior Software Engineer (12-month contract)](https://jobr.pro/job/41275107/senior-software-engineer-12-month-contract?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Mississauga | On Site | Jun 18 |
 
 ---
 
-**Current Stats:** 50 jobs | 26% remote | 37 companies | Avg salary: 4.694451433340153e+207k  
+**Current Stats:** 48 jobs | 25% remote | 34 companies | Avg salary: 4.000006914290543e+202k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, ai  
