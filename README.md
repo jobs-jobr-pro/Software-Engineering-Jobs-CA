@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in Canada — 2026
 
-<sub><small>Last updated: Jun 24, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 25, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in Canada** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca).
@@ -13,8 +13,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[PlayStation Global](https://careers.playstation.com)** | **[Sr. Software Engineer in Test](https://jobr.pro/job/41377075/sr-software-engineer-in-test?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | United States, San Diego, CA | On Site | Jun 24 |
+| **[PlayStation Global](https://careers.playstation.com)** | **[Software Engineer II](https://jobr.pro/job/41377073/software-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | United States, San Mateo, CA | On Site | Jun 24 |
+| **[PlayStation Global](https://careers.playstation.com)** | **[Sr. Software Engineer](https://jobr.pro/job/41377074/sr-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | United States, San Mateo, CA | On Site | Jun 24 |
+| **[PlayStation Global](https://careers.playstation.com)** | **[Manager, Software Engineering](https://jobr.pro/job/41377071/manager-software-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | United States, Aliso Viejo, CA | On Site | Jun 24 |
+| **[MongoDB](https://www.mongodb.com)** | **[Software Engineer 3, Query Integration](https://jobr.pro/job/41373897/software-engineer-3-query-integration?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto | On Site | Jun 24 |
+| **[Okta](https://www.okta.com)** | **[Senior Software Engineer - Okta Identity Governance](https://jobr.pro/job/41370715/senior-software-engineer-okta-identity-governance?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, Ontario, Canada | On Site | Jun 24 |
 | **[Okta](https://www.okta.com)** | **[Staff Software Engineer](https://jobr.pro/job/41366635/staff-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, Ontario, Canada | On Site | Jun 24 |
-| **[Okta](https://www.okta.com)** | **[Senior Software Engineer- Okta Identity Governance](https://jobr.pro/job/41352766/senior-software-engineer-okta-identity-governance?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, Ontario, Canada | On Site | Jun 23 |
 | **[Okta](https://www.okta.com)** | **[Staff Software Engineer - UI Platform (Toronto)](https://jobr.pro/job/41352770/staff-software-engineer-ui-platform-toronto?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, Ontario, Canada | On Site | Jun 23 |
 | **[Monks](https://www.monks.com)** | **[Software Engineering Team Lead](https://jobr.pro/job/41352783/software-engineering-team-lead?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, Ontario, Canada | On Site | Jun 23 |
 | **[Planet](https://www.planetgirlsstore.com.br)** | **[Software Engineer - Platform, Mission Systems](https://jobr.pro/job/41355106/software-engineer-platform-mission-systems?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | United States, Remote; Canada, Remote | Remote | Jun 23 |
@@ -58,15 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[PointClickCare](https://pointclickcare.com)** | **[Senior Software Engineer (12-month contract)](https://jobr.pro/job/41275107/senior-software-engineer-12-month-contract?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Mississauga | On Site | Jun 18 |
 | **[US Mobile](https://www.usmobile.com)** | **[Principal Software Development Engineer in Test](https://jobr.pro/job/41282457/principal-software-development-engineer-in-test?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto | On Site | Jun 18 |
 | **[Tubi - Canada]()** | **[Staff Software Engineer, Internal Tools](https://jobr.pro/job/41261641/staff-software-engineer-internal-tools?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, Canada (Hybrid) | On Site | Jun 18 |
-| **[Doppel](https://www.doppel.com)** | **[Software Engineer, Simulation](https://jobr.pro/job/41256263/software-engineer-simulation?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, ON | Remote | Jun 17 |
-| **[Tubi - Canada]()** | **[Senior Software Engineer, Growth](https://jobr.pro/job/41261640/senior-software-engineer-growth?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, Canada (Hybrid) | On Site | Jun 17 |
-| **[Magical](https://magicalquote.com)** | **[Software Engineer](https://jobr.pro/job/41263536/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto | Remote | Jun 17 |
-| **[PlayStation Global](https://careers.playstation.com)** | **[Senior Full Stack Software Engineer (Contract Role)](https://jobr.pro/job/41244652/senior-full-stack-software-engineer-contract-role?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | United States, San Diego, CA | On Site | Jun 17 |
-| **[Decoda Health](https://decodahealth.com)** | **[Software Engineer](https://jobr.pro/job/41261107/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto Office | On Site | Jun 17 |
 
 ---
 
-**Current Stats:** 50 jobs | 26% remote | 39 companies | Avg salary: 6.285719628577143e+201k  
+**Current Stats:** 50 jobs | 22% remote | 37 companies | Avg salary: 6.800006635140776e+213k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, ai  
