@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in Canada — 2026
 
-<sub><small>Last updated: Jun 25, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: Jun 25, 2026 at 06:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in Canada** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca).
@@ -62,11 +62,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[3Pillar](https://www.3pillar.ai)** | **[Senior C# .Net Senior Software Engineer](https://jobr.pro/job/41269913/senior-c-net-senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Canada | Remote | Jun 18 |
 | **[PointClickCare](https://pointclickcare.com)** | **[Senior Software Engineer (12-month contract)](https://jobr.pro/job/41275107/senior-software-engineer-12-month-contract?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Mississauga | On Site | Jun 18 |
 | **[US Mobile](https://www.usmobile.com)** | **[Principal Software Development Engineer in Test](https://jobr.pro/job/41282457/principal-software-development-engineer-in-test?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto | On Site | Jun 18 |
-| **[Tubi - Canada]()** | **[Staff Software Engineer, Internal Tools](https://jobr.pro/job/41261641/staff-software-engineer-internal-tools?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, Canada (Hybrid) | On Site | Jun 18 |
 
 ---
 
-**Current Stats:** 50 jobs | 22% remote | 37 companies | Avg salary: 6.800006635140776e+213k  
+**Current Stats:** 49 jobs | 22% remote | 36 companies | Avg salary: 6.98889570833913e+207k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, ai  
