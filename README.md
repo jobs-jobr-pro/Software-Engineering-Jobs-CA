@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in Canada — 2026
 
-<sub><small>Last updated: Jun 26, 2026 at 06:00 UTC</small></sub>
+<sub><small>Last updated: Jun 26, 2026 at 12:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in Canada** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca).
@@ -24,6 +24,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[PlayStation Global](https://careers.playstation.com)** | **[Senior Software Engineer](https://jobr.pro/job/41400281/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | United States, San Mateo, CA | On Site | Jun 25 |
 | **[PlayStation Global](https://careers.playstation.com)** | **[Sr. Software Engineer](https://jobr.pro/job/41400283/sr-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | United States, San Mateo, CA | On Site | Jun 25 |
 | **[Afresh](https://afresh.com)** | **[Staff Software Engineer Data - DC Tech Lead](https://jobr.pro/job/41396321/staff-software-engineer-data-dc-tech-lead?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Remote - Toronto, Ontario, Canada | Remote | Jun 25 |
+| **[Backstory](https://backstory.us)** | **[Senior Software Engineer — Matching (Canada)](https://jobr.pro/job/41419500/senior-software-engineer-matching-canada?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto | Remote | Jun 25 |
 | **[STACK IT Recruitment](https://stackitrecruitment.com)** | **[Python Software Engineer (3-Month Contract)](https://jobr.pro/job/41403585/python-software-engineer-3-month-contract?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Mississauga, Ontario, Canada | On Site | Jun 25 |
 | **[Save, Earn, Travel](https://www.super.com)** | **[Senior Software Engineer, Platform](https://jobr.pro/job/41388929/senior-software-engineer-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Canada/United States | Remote | Jun 24 |
 | **[PlayStation Global](https://careers.playstation.com)** | **[Sr. Software Engineer in Test](https://jobr.pro/job/41377075/sr-software-engineer-in-test?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | United States, San Diego, CA | On Site | Jun 24 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Big Viking Games](https://www.bigvikinggames.com)** | **[Sr Software Engineer, Games](https://jobr.pro/job/41324727/sr-software-engineer-games?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, Ontario, Canada | On Site | Jun 22 |
 | **[Big Viking Games](https://www.bigvikinggames.com)** | **[Intermediate Software Engineer](https://jobr.pro/job/41324725/intermediate-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, Ontario, Canada | On Site | Jun 22 |
 | **[Klue](https://klue.com)** | **[Senior Software Engineer, Agents](https://jobr.pro/job/41298082/senior-software-engineer-agents?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Vancouver, British Columbia | Remote | Jun 19 |
-| **[SkyBox Labs](https://skyboxlabs.com)** | **[Intermediate Software Engineer (Gameplay Systems) \| Minecraft](https://jobr.pro/job/41325797/intermediate-software-engineer-gameplay-systems-minecraft?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Burnaby, British Columbia | On Site | Jun 19 |
 
 ---
 
-**Current Stats:** 50 jobs | 22% remote | 33 companies | Avg salary: 6.486492840545659e+216k  
+**Current Stats:** 50 jobs | 24% remote | 33 companies | Avg salary: 6.666673197227482e+210k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, ai  
