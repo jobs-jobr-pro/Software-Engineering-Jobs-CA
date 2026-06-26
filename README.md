@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in Canada — 2026
 
-<sub><small>Last updated: Jun 26, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: Jun 26, 2026 at 06:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in Canada** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca).
@@ -13,8 +13,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Zip](https://zipspecialties.com)** | **[Software Engineer, Core Infrastructure (Mid-Senior level)](https://jobr.pro/job/41412543/software-engineer-core-infrastructure-mid-senior-level?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto | Remote | Jun 26 |
+| **[Cognitiv](https://www.cognitiv.ai)** | **[Staff Software Engineer, Big Data](https://jobr.pro/job/41409240/staff-software-engineer-big-data?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Vancouver, BC | On Site | Jun 25 |
+| **[Tubi - Canada]()** | **[Staff Software Engineer, Growth](https://jobr.pro/job/41414068/staff-software-engineer-growth?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, Canada (Hybrid) | On Site | Jun 25 |
 | **[Pinterest](https://www.pinterestcareers.com)** | **[Software Engineer II, Web](https://jobr.pro/job/41404622/software-engineer-ii-web?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, ON, CA | On Site | Jun 25 |
 | **[Pinterest](https://www.pinterestcareers.com)** | **[Sr. Software Engineer, Web](https://jobr.pro/job/41404623/sr-software-engineer-web?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, ON, CA | On Site | Jun 25 |
+| **[Jobber](https://www.getjobber.com)** | **[Staff Software Engineer](https://jobr.pro/job/41411748/staff-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Edmonton | Remote | Jun 25 |
 | **[Monster Energy](https://www.monsterenergy.com)** | **[Senior Software Engineer](https://jobr.pro/job/41397036/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | USA - Corona, CA | On Site | Jun 25 |
 | **[PlayStation Global](https://careers.playstation.com)** | **[Senior Software Engineer, Machine Learning Platform](https://jobr.pro/job/41400282/senior-software-engineer-machine-learning-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | United States, San Diego, CA | On Site | Jun 25 |
 | **[PlayStation Global](https://careers.playstation.com)** | **[Senior Software Engineer](https://jobr.pro/job/41400281/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | United States, San Mateo, CA | On Site | Jun 25 |
@@ -59,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Big Viking Games](https://www.bigvikinggames.com)** | **[Intermediate Software Engineer](https://jobr.pro/job/41324725/intermediate-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, Ontario, Canada | On Site | Jun 22 |
 | **[Klue](https://klue.com)** | **[Senior Software Engineer, Agents](https://jobr.pro/job/41298082/senior-software-engineer-agents?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Vancouver, British Columbia | Remote | Jun 19 |
 | **[SkyBox Labs](https://skyboxlabs.com)** | **[Intermediate Software Engineer (Gameplay Systems) \| Minecraft](https://jobr.pro/job/41325797/intermediate-software-engineer-gameplay-systems-minecraft?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Burnaby, British Columbia | On Site | Jun 19 |
-| **[Digital Extremes](https://digitalextremes.com)** | **[Software Engineer II, Web](https://jobr.pro/job/41300458/software-engineer-ii-web?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | London, Ontario | On Site | Jun 19 |
 
 ---
 
-**Current Stats:** 47 jobs | 19% remote | 30 companies | Avg salary: 5.260503888896275e+209k  
+**Current Stats:** 50 jobs | 22% remote | 33 companies | Avg salary: 6.486492840545659e+216k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, ai  
