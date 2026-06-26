@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in Canada — 2026
 
-<sub><small>Last updated: Jun 26, 2026 at 12:00 UTC</small></sub>
+<sub><small>Last updated: Jun 26, 2026 at 18:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in Canada** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca).
@@ -13,7 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Pebl](https://hellopebl.com)** | **[Senior Fullstack Software Engineer A.I.](https://jobr.pro/job/41427870/senior-fullstack-software-engineer-ai?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, Ontario | Remote | Jun 26 |
 | **[Zip](https://zipspecialties.com)** | **[Software Engineer, Core Infrastructure (Mid-Senior level)](https://jobr.pro/job/41412543/software-engineer-core-infrastructure-mid-senior-level?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto | Remote | Jun 26 |
+| **[Citylitics](https://citylitics.com)** | **[Software Engineer (Full Stack)](https://jobr.pro/job/41426964/software-engineer-full-stack?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, Ontario, Canada | On Site | Jun 26 |
 | **[Cognitiv](https://www.cognitiv.ai)** | **[Staff Software Engineer, Big Data](https://jobr.pro/job/41409240/staff-software-engineer-big-data?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Vancouver, BC | On Site | Jun 25 |
 | **[Tubi - Canada]()** | **[Staff Software Engineer, Growth](https://jobr.pro/job/41414068/staff-software-engineer-growth?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, Canada (Hybrid) | On Site | Jun 25 |
 | **[Pinterest](https://www.pinterestcareers.com)** | **[Software Engineer II, Web](https://jobr.pro/job/41404622/software-engineer-ii-web?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, ON, CA | On Site | Jun 25 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Univeris](https://www.univeris.com)** | **[Engineering Manager, Software Development](https://jobr.pro/job/41335302/engineering-manager-software-development?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, Ontario | On Site | Jun 22 |
 | **[ClickHouse](https://clickhouse.com)** | **[Senior Software Engineer - Identity & Authorization Platform](https://jobr.pro/job/41331329/senior-software-engineer-identity-authorization-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Canada (remote) | Remote | Jun 22 |
 | **[Big Viking Games](https://www.bigvikinggames.com)** | **[Sr Software Engineer, Games](https://jobr.pro/job/41324727/sr-software-engineer-games?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, Ontario, Canada | On Site | Jun 22 |
-| **[Big Viking Games](https://www.bigvikinggames.com)** | **[Intermediate Software Engineer](https://jobr.pro/job/41324725/intermediate-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, Ontario, Canada | On Site | Jun 22 |
-| **[Klue](https://klue.com)** | **[Senior Software Engineer, Agents](https://jobr.pro/job/41298082/senior-software-engineer-agents?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Vancouver, British Columbia | Remote | Jun 19 |
 
 ---
 
-**Current Stats:** 50 jobs | 24% remote | 33 companies | Avg salary: 6.666673197227482e+210k  
+**Current Stats:** 50 jobs | 24% remote | 34 companies | Avg salary: 5.428578285721002e+204k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, ai  
