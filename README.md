@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in Canada — 2026
 
-<sub><small>Last updated: Jun 30, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: Jun 30, 2026 at 06:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in Canada** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca).
@@ -13,8 +13,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Airbnb](https://careers.airbnb.com)** | **[Software Engineer, Cloud Networking](https://jobr.pro/job/41486469/software-engineer-cloud-networking?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Remote - USA or Canada | Remote | Jun 29 |
 | **[Okta](https://www.okta.com)** | **[Senior Software Engineer, Organizations (Auth0)](https://jobr.pro/job/41483068/senior-software-engineer-organizations-auth0?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, Ontario, Canada | On Site | Jun 29 |
+| **[2K](https://2k.io)** | **[Senior Rendering Software Engineer](https://jobr.pro/job/41486139/senior-rendering-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Burnaby, British Columbia, Canada | On Site | Jun 29 |
 | **[Clover Health](https://www.cloverhealth.com)** | **[Software Engineer - Engineering Productivity](https://jobr.pro/job/41481154/software-engineer-engineering-productivity?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Remote - Canada; Remote - USA | Remote | Jun 29 |
+| **[Kong Inc.](http://www.kong.nl)** | **[Senior Software Engineer, Konnect Admin/Billing](https://jobr.pro/job/41487162/senior-software-engineer-konnect-adminbilling?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, Canada | Remote | Jun 29 |
 | **[Arista Networks](https://www.arista.com)** | **[Senior Software Engineer, Linux Kernel](https://jobr.pro/job/41465547/senior-software-engineer-linux-kernel?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Vancouver, BC, Canada | Remote | Jun 29 |
 | **[Arista Networks](https://www.arista.com)** | **[Senior/Lead Software Engineer, Network Systems](https://jobr.pro/job/41465548/seniorlead-software-engineer-network-systems?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Vancouver, BC, Canada | Remote | Jun 29 |
 | **[Arista Networks](https://www.arista.com)** | **[PCIe Senior/Lead Software Engineer](https://jobr.pro/job/41465549/pcie-seniorlead-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Vancouver, BC, Canada | Remote | Jun 29 |
@@ -27,7 +30,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Noctua Technology]()** | **[Software Engineer- Application Development](https://jobr.pro/job/41440861/software-engineer-application-development?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | DC, MD, VA, CA | On Site | Jun 27 |
 | **[KAYAK](https://www.kayak.sg)** | **[Software Engineer](https://jobr.pro/job/41443015/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Cambridge Office | Remote | Jun 26 |
 | **[Kayak](https://www.kayak.sg)** | **[Software Engineer](https://jobr.pro/job/41438407/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Cambridge Office | Remote | Jun 26 |
-| **[New Relic](https://newrelic.com)** | **[Senior Software Engineer -Alerts](https://jobr.pro/job/41436441/senior-software-engineer-alerts?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Ottawa, Canada | On Site | Jun 26 |
 | **[StackAdapt](https://stackadapt.com)** | **[Senior Software Engineer, Integrations](https://jobr.pro/job/41436980/senior-software-engineer-integrations?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Canada | On Site | Jun 26 |
 | **[Okta](https://www.okta.com)** | **[Principal Software Engineer (Auth0)](https://jobr.pro/job/41433179/principal-software-engineer-auth0?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, Ontario, Canada | On Site | Jun 26 |
 | **[Magnet Forensics](https://www.magnetforensics.com)** | **[Software Engineer - Review Team](https://jobr.pro/job/41436547/software-engineer-review-team?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Canada | Remote | Jun 26 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Okta](https://www.okta.com)** | **[Staff Software Engineer - UI Platform (Toronto)](https://jobr.pro/job/41352770/staff-software-engineer-ui-platform-toronto?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, Ontario, Canada | On Site | Jun 23 |
 | **[Monks](https://www.monks.com)** | **[Software Engineering Team Lead](https://jobr.pro/job/41352783/software-engineering-team-lead?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, Ontario, Canada | On Site | Jun 23 |
 | **[Planet](https://www.planetgirlsstore.com.br)** | **[Software Engineer - Platform, Mission Systems](https://jobr.pro/job/41355106/software-engineer-platform-mission-systems?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | United States, Remote; Canada, Remote | Remote | Jun 23 |
-| **[Planet](https://www.planetgirlsstore.com.br)** | **[Software Engineer, Mission Systems](https://jobr.pro/job/41355105/software-engineer-mission-systems?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | United States, Remote; Canada, Remote | Remote | Jun 23 |
-| **[Lyft](https://www.lyft.com)** | **[Senior Software Engineer - Ad Infra, Lyft Ads](https://jobr.pro/job/41351228/senior-software-engineer-ad-infra-lyft-ads?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, Canada | On Site | Jun 23 |
 
 ---
 
-**Current Stats:** 50 jobs | 40% remote | 31 companies | Avg salary: 4.6750047500048745e+233k  
+**Current Stats:** 50 jobs | 42% remote | 32 companies | Avg salary: 4.743594538466411e+227k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python  
