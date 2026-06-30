@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in Canada — 2026
 
-<sub><small>Last updated: Jun 29, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 30, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in Canada** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Okta](https://www.okta.com)** | **[Senior Software Engineer, Organizations (Auth0)](https://jobr.pro/job/41483068/senior-software-engineer-organizations-auth0?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, Ontario, Canada | On Site | Jun 29 |
+| **[Clover Health](https://www.cloverhealth.com)** | **[Software Engineer - Engineering Productivity](https://jobr.pro/job/41481154/software-engineer-engineering-productivity?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Remote - Canada; Remote - USA | Remote | Jun 29 |
 | **[Arista Networks](https://www.arista.com)** | **[Senior Software Engineer, Linux Kernel](https://jobr.pro/job/41465547/senior-software-engineer-linux-kernel?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Vancouver, BC, Canada | Remote | Jun 29 |
 | **[Arista Networks](https://www.arista.com)** | **[Senior/Lead Software Engineer, Network Systems](https://jobr.pro/job/41465548/seniorlead-software-engineer-network-systems?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Vancouver, BC, Canada | Remote | Jun 29 |
 | **[Arista Networks](https://www.arista.com)** | **[PCIe Senior/Lead Software Engineer](https://jobr.pro/job/41465549/pcie-seniorlead-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Vancouver, BC, Canada | Remote | Jun 29 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Planet](https://www.planetgirlsstore.com.br)** | **[Software Engineer - Platform, Mission Systems](https://jobr.pro/job/41355106/software-engineer-platform-mission-systems?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | United States, Remote; Canada, Remote | Remote | Jun 23 |
 | **[Planet](https://www.planetgirlsstore.com.br)** | **[Software Engineer, Mission Systems](https://jobr.pro/job/41355105/software-engineer-mission-systems?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | United States, Remote; Canada, Remote | Remote | Jun 23 |
 | **[Lyft](https://www.lyft.com)** | **[Senior Software Engineer - Ad Infra, Lyft Ads](https://jobr.pro/job/41351228/senior-software-engineer-ad-infra-lyft-ads?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, Canada | On Site | Jun 23 |
-| **[Arc'teryx Equipment](https://arcteryx.com)** | **[Manager, Software Engineering (Service Cloud)](https://jobr.pro/job/41349937/manager-software-engineering-service-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | North Vancouver, BC (Corporate) | On Site | Jun 23 |
-| **[Afresh](https://afresh.com)** | **[Senior Software Engineer, Full-stack (Distribution Center)](https://jobr.pro/job/41356804/senior-software-engineer-full-stack-distribution-center?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Ontario, Canada | On Site | Jun 23 |
 
 ---
 
-**Current Stats:** 50 jobs | 38% remote | 31 companies | Avg salary: 5.000005000005e+227k  
+**Current Stats:** 50 jobs | 40% remote | 31 companies | Avg salary: 4.6750047500048745e+233k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python  
