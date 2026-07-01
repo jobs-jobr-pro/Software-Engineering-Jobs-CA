@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in Canada — 2026
 
-<sub><small>Last updated: Jun 30, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jul 01, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in Canada** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca).
@@ -13,9 +13,17 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Kaseya Careers](https://www.kaseya.com)** | **[Sr. Staff Software Engineer](https://jobr.pro/job/41510983/sr-staff-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, Ontario | On Site | Jun 30 |
+| **[Kong Inc.](http://www.kong.nl)** | **[Senior Software Engineer - Fronend](https://jobr.pro/job/41512290/senior-software-engineer-fronend?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, Canada | Remote | Jun 30 |
+| **[Toast](https://careers.toasttab.com)** | **[Staff Software Engineer](https://jobr.pro/job/41509056/staff-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Remote, Canada | Remote | Jun 30 |
+| **[Hopper](https://hopper.com)** | **[Senior Software Engineer - Customer Experience Platform](https://jobr.pro/job/41511208/senior-software-engineer-customer-experience-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto - Remote | Remote | Jun 30 |
+| **[Okta](https://www.okta.com)** | **[Senior Software Engineer, Frontend (Web)](https://jobr.pro/job/41505428/senior-software-engineer-frontend-web?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, Ontario, Canada | On Site | Jun 30 |
 | **[Babylist](https://babylist.com)** | **[Staff Software Engineer, Health](https://jobr.pro/job/41503248/staff-software-engineer-health?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Canada | On Site | Jun 30 |
 | **[Babylist](https://babylist.com)** | **[Staff Software Engineer](https://jobr.pro/job/41503247/staff-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Canada | On Site | Jun 30 |
 | **[Babylist](https://babylist.com)** | **[Senior Software Engineer](https://jobr.pro/job/41503244/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Canada | On Site | Jun 30 |
+| **[Hopper](https://hopper.com)** | **[Ingénieur·e logiciel principal (Staff Software Engineer) – Commerce HTS](https://jobr.pro/job/41511202/ingenieure-logiciel-principal-staff-software-engineer-commerce-hts?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Montréal - Remote | Remote | Jun 30 |
+| **[Hopper](https://hopper.com)** | **[Staff Backend Software Engineer](https://jobr.pro/job/41511193/staff-backend-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Vancouver - Remote | Remote | Jun 30 |
+| **[Xsolla](https://xsolla.com)** | **[Staff Software Engineer — Identity & Access Management](https://jobr.pro/job/41512305/staff-software-engineer-identity-access-management?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Canada | Remote | Jun 30 |
 | **[Coalition, Inc.](https://www.coalitioninc.com)** | **[Senior Software Engineer](https://jobr.pro/job/41492438/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Any location, Canada | On Site | Jun 29 |
 | **[Airbnb](https://careers.airbnb.com)** | **[Software Engineer, Cloud Networking](https://jobr.pro/job/41486469/software-engineer-cloud-networking?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Remote - USA or Canada | Remote | Jun 29 |
 | **[Okta](https://www.okta.com)** | **[Senior Software Engineer, Organizations (Auth0)](https://jobr.pro/job/41483068/senior-software-engineer-organizations-auth0?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, Ontario, Canada | On Site | Jun 29 |
@@ -55,21 +63,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Monster Energy](https://www.monsterenergy.com)** | **[Senior Software Engineer](https://jobr.pro/job/41397036/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | USA - Corona, CA | On Site | Jun 25 |
 | **[PlayStation Global](https://careers.playstation.com)** | **[Senior Software Engineer, Machine Learning Platform](https://jobr.pro/job/41400282/senior-software-engineer-machine-learning-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | United States, San Diego, CA | On Site | Jun 25 |
 | **[PlayStation Global](https://careers.playstation.com)** | **[Senior Software Engineer](https://jobr.pro/job/41400281/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | United States, San Mateo, CA | On Site | Jun 25 |
-| **[PlayStation Global](https://careers.playstation.com)** | **[Sr. Software Engineer](https://jobr.pro/job/41400283/sr-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | United States, San Mateo, CA | On Site | Jun 25 |
-| **[Afresh](https://afresh.com)** | **[Staff Software Engineer Data - DC Tech Lead](https://jobr.pro/job/41396321/staff-software-engineer-data-dc-tech-lead?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Remote - Toronto, Ontario, Canada | Remote | Jun 25 |
-| **[Backstory](https://backstory.us)** | **[Senior Software Engineer — Matching (Canada)](https://jobr.pro/job/41419500/senior-software-engineer-matching-canada?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto | Remote | Jun 25 |
-| **[STACK IT Recruitment](https://stackitrecruitment.com)** | **[Python Software Engineer (3-Month Contract)](https://jobr.pro/job/41403585/python-software-engineer-3-month-contract?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Mississauga, Ontario, Canada | On Site | Jun 25 |
-| **[Save, Earn, Travel](https://www.super.com)** | **[Senior Software Engineer, Platform](https://jobr.pro/job/41388929/senior-software-engineer-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Canada/United States | Remote | Jun 24 |
-| **[PlayStation Global](https://careers.playstation.com)** | **[Sr. Software Engineer in Test](https://jobr.pro/job/41377075/sr-software-engineer-in-test?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | United States, San Diego, CA | On Site | Jun 24 |
-| **[PlayStation Global](https://careers.playstation.com)** | **[Software Engineer II](https://jobr.pro/job/41377073/software-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | United States, San Mateo, CA | On Site | Jun 24 |
-| **[PlayStation Global](https://careers.playstation.com)** | **[Manager, Software Engineering](https://jobr.pro/job/41377071/manager-software-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | United States, Aliso Viejo, CA | On Site | Jun 24 |
 
 ---
 
-**Current Stats:** 50 jobs | 44% remote | 33 companies | Avg salary: 5.285719628577343e+203k  
+**Current Stats:** 50 jobs | 50% remote | 33 companies | Avg salary: 5.431257093757813e+185k  
 _Note: Stats are approximate and based on available job data_
 
-**Trending Skills:** python  
+**Trending Skills:** Various technologies  
 _Note: Skills are identified from job descriptions and may vary_
 
 ## About This Repository
