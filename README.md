@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in Canada — 2026
 
-<sub><small>Last updated: Jul 01, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: Jul 01, 2026 at 06:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in Canada** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca).
@@ -49,6 +49,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[StackAdapt](https://stackadapt.com)** | **[Senior Software Engineer, Integrations](https://jobr.pro/job/41436980/senior-software-engineer-integrations?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Canada | On Site | Jun 26 |
 | **[Okta](https://www.okta.com)** | **[Principal Software Engineer (Auth0)](https://jobr.pro/job/41433179/principal-software-engineer-auth0?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, Ontario, Canada | On Site | Jun 26 |
 | **[Magnet Forensics](https://www.magnetforensics.com)** | **[Software Engineer - Review Team](https://jobr.pro/job/41436547/software-engineer-review-team?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Canada | Remote | Jun 26 |
+| **[Magnet Forensics](https://www.magnetforensics.com)** | **[Software Engineer (Full Stack)](https://jobr.pro/job/41519169/software-engineer-full-stack?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Waterloo, Ontario | On Site | Jun 26 |
 | **[Pebl](https://hellopebl.com)** | **[Senior Fullstack Software Engineer A.I.](https://jobr.pro/job/41427870/senior-fullstack-software-engineer-ai?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto, Ontario | Remote | Jun 26 |
 | **[Zip](https://zipspecialties.com)** | **[Software Engineer, Core Infrastructure (Mid-Senior level)](https://jobr.pro/job/41412543/software-engineer-core-infrastructure-mid-senior-level?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Toronto | Remote | Jun 26 |
 | **[Irth Solutions](http://www.irthsolutions.com)** | **[Senior Software Engineer](https://jobr.pro/job/41432754/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Canada | Remote | Jun 26 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Mechanical Orchard](https://mechanicalorchard.com)** | **[Senior Infrastructure Software Engineer](https://jobr.pro/job/41430523/senior-infrastructure-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | Canada (Remote) | Remote | Jun 25 |
 | **[Monster Energy](https://www.monsterenergy.com)** | **[Senior Software Engineer](https://jobr.pro/job/41397036/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | USA - Corona, CA | On Site | Jun 25 |
 | **[PlayStation Global](https://careers.playstation.com)** | **[Senior Software Engineer, Machine Learning Platform](https://jobr.pro/job/41400282/senior-software-engineer-machine-learning-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | United States, San Diego, CA | On Site | Jun 25 |
-| **[PlayStation Global](https://careers.playstation.com)** | **[Senior Software Engineer](https://jobr.pro/job/41400281/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ca)** | United States, San Mateo, CA | On Site | Jun 25 |
 
 ---
 
